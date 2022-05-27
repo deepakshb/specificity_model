@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+
+bigPatentData_csv/
+features/.DS_Store
+features/instantiation/.DS_Store
+features/specification/.DS_Store
+features/test/.DS_Store
+helpers/.DS_Store
+models/.DS_Store
+subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.README
+pdtb2.csv
+sp_sent_counts.pickle
+in_sent_counts.pickle
